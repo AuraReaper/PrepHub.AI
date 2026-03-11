@@ -2,7 +2,6 @@ package com.edurag.repository;
 
 import com.edurag.model.TextChunk;
 import org.springframework.data.mongodb.repository.MongoRepository;
-import org.springframework.data.mongodb.repository.Query;
 import org.springframework.stereotype.Repository;
 
 import java.util.List;
